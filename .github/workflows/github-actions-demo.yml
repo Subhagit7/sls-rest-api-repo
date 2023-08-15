@@ -1,4 +1,4 @@
-name: Deploy notes Api New
+name: Deploy Notes Api
 
 on:
   push:
